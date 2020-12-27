@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/my/index",
+    "pages/index/index",
+    "pages/video/video",
+    "pages/weather/weather",
+    "pages/yanzhijia/yanzhijia"
+],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#eee",
+    "navigationBarTitleText": "阿习科技",
+    "navigationBarTextStyle": "black"
+  },
+
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#1C9ADC",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/sy.png",
+        "selectedIconPath": "images/sydj.png"
+      },
+      {
+        "pagePath": "pages/weather/weather",
+        "text": "天气",
+        "iconPath": "images/4.png",
+        "selectedIconPath": "images/4dj.png"
+      },
+      {
+        "pagePath": "pages/yanzhijia/yanzhijia",
+        "text": "公司",
+        "iconPath": "images/5.png",
+        "selectedIconPath": "images/5dj.png"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "text": "我的",
+        "iconPath": "images/my.png",
+        "selectedIconPath": "images/mydj.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
+

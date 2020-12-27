@@ -1,0 +1,22 @@
+/* 登陆页面 */
+.myLogin{
+  width: 100%;
+  height: 400rpx;
+  background-color: #328eeb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.myLogin image{
+  width: 300rpx;
+  height: 300rpx;
+  
+}
+.myLogin text{
+  color: white;
+}
+/* 收藏liebiao */
+.myFavorite{
+  padding: 22rpx;
+}

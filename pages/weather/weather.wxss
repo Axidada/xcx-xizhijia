@@ -1,0 +1,30 @@
+
+.container{
+height: 100vh;
+display: flex;
+flex-direction: column;
+align-content: center;
+justify-content: space-around;
+}
+.detail{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.bar{
+ display: flex;
+ flex-direction: row;
+ margin: 20rpx 0;
+}
+.box{
+  width: 33.3333%;
+  text-align: center;
+}
+text{
+  font-size: 80rpx;
+  color: #3c5f81;
+}
+.images{
+
+
+}
